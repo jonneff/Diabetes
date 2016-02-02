@@ -1,5 +1,6 @@
 # Diabetes
-A brief analysis of the AIM94 diabetes dataset
+
+This is a brief analysis of the AIM94 diabetes dataset.  My objective in analyzing this dataset is to see if I can fit a simple linear model that will look for secular (consistently increasing or decreasing) trendds in the time series data.  A secular trend in the wrong direction would indicate that the patient needs attention.
 
 The dataset analyzed here was collected for the 1994 AI in Medicine Symposium and is hosted at the UCI Irvine Machine Learning Repository.  The dataset contains blood glucose and other measurements for 70 patients with Insulin Dependent Diabetes Mellitus (IDDM).  The following excerpt explains the data codes in this set:
 
@@ -24,4 +25,4 @@ most patients. One important consideration is that due to the inevitable variati
 
 To summarize in layman's terms, both high and low blood glucose levels are very unhealthy for the diabetes patient.  
 
-My objective in analyzing this dataset is to see if I can fit a simple linear model that will look for secular (consistently increasing or decreasing) trendds in the time series data.  A secular trend in the wrong direction would indicate that the patient needs attention.
+
